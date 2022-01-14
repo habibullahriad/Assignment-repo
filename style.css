@@ -1,0 +1,17 @@
+ /* font */
+@import url( font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;);
+.top-products{
+    text-align: center;
+}
+product-info{
+text-align: justify;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(yellow,tomato) ;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 10px;
+    font-weight:700px;
+}
