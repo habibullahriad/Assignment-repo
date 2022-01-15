@@ -15,7 +15,9 @@ main{
     justify-content: center;
     padding:30px;
 }
-
+.product-intro{
+    display: flex;
+}
     .section{
         text-align:center ;
         
